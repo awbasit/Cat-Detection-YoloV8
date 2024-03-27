@@ -1,0 +1,6 @@
+path: 'C:\Users\dell\Desktop\ML\MlPro\object detection\datasets'
+train: 'images\train'
+val: 'images\val'
+
+nc: 1
+names: ["cat"]
